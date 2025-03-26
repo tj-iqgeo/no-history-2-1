@@ -1,0 +1,1 @@
+On GitHub, the README.md file is displayed automatically when someone views your repository. It provides an overview of your project, making it easier for others to understand what your project is about and how they can use or contribute to it.
